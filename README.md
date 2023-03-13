@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joannsoto
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python,HTML,CSS,Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
